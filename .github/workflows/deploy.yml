@@ -12,8 +12,8 @@ permissions:
   contents: read
 
 jobs:
-  terraform:
-    name: terraform
+  terraform-deploy:
+    name: terraform-deploy
     runs-on: ubuntu-latest
 
     steps:
