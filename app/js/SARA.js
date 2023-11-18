@@ -29,7 +29,7 @@ function Events1() { // SARA
 				'   <div class="text-center"><br><br>' +
 				'	  <img src="static/img/LogoFundacionCGV2.png" alt="Image" style="width: 300px; height: auto">' +
 				'   </div>' +
-				'   <h3 class="text-center"style="color: #d12869">Laboratorio Final - ITM<br></h3>' +
+				'   <h3 class="text-center"style="color: #d12869">LaboratorioFinal - ITM<br></h3>' +
 				'   <h4 class="text-center" style="color: #919090">Aplicación de Patrones de Arquitectura<br><br><br><br>' +
 				'   </h4>' +
 				'   <h6 class="text-center" style="color: #919090">Desarrollado por Gustavo Duque Osorio. 2023 ®' +
