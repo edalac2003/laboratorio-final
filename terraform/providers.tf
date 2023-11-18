@@ -9,11 +9,9 @@ terraform {
     bucket = "laboratoriofinal.itm"
     key = "terraform.tfstate"
     region = "us-east-1"
-    profile = "itmlab30"
   }
 }
 
 provider "aws" {
   region = "us-east-1"
-  profile = "itmlab30"
 }
