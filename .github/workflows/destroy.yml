@@ -37,5 +37,5 @@ jobs:
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Destroy terraform
-        run: terraform destroy --auto-approve
+        run: terraform init && terraform destroy --auto-approve
         working-directory: terraform
