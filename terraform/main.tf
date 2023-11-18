@@ -113,7 +113,7 @@ export PATH="$VIRTUAL_ENV/bin:$PATH"
 python3 -m pip install jam.py
 # Create SARA jam-project (Github download)
 cd /opt/SARA
-wget https://github.com/gustavoduque5537/laboratorio-final/archive/refs/heads/main.zip
+wget https://github.com/edalac2003/laboratorio-final/archive/refs/heads/development.zip
 unzip main.zip
 # Run application
 python /opt/SARA/laboratorio-final-main/app/server.py > /opt/SARA/laboratorio-final-main/app/output.log 2>&1 &
