@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "laboratoriofinal.itm"
+    bucket = "co.com.edalac.security"
     key = "terraform.tfstate"
     region = "us-east-1"
   }

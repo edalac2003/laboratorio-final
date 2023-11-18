@@ -2,7 +2,7 @@ name: terraform-deploy-aws
 on:
   push:
     branches:
-      - main
+      - development
 
 env:
   AWS_REGION: "us-east-1"  

@@ -17,7 +17,7 @@ variable "subnet_2_cidr" {
 
 # KeyPair
 variable "aws_keypair" {
-  default = "KP-labITM-1"
+  default = "KP_PRACTICE_20230930"
 }
 # Ubuntu AMI
 variable "ec2_Ubuntu_ami" {
