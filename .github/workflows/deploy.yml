@@ -1,4 +1,4 @@
-name: terraform-automation
+name: terraform-deploy-aws
 on:
   push:
     branches:
