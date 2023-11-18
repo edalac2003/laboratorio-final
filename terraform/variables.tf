@@ -16,6 +16,7 @@ variable "subnet_2_cidr" {
 ########## EC2 Instance Ubuntu #########
 
 # KeyPair
+# Buscar el nombre válido
 variable "aws_keypair" {
   default = "KP_PRACTICE_20230930"
 }
